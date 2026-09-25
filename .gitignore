@@ -1,0 +1,7 @@
+# Projekte, die du innerhalb dieses Repos anlegst
+/projekte/*/vendor/
+/projekte/*/node_modules/
+/projekte/*/.env
+.DS_Store
+.idea/
+.vscode/
